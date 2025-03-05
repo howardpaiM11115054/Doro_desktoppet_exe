@@ -9,4 +9,5 @@ Click the thumbnail above to watch the demo video of **Doro_pygame** in action o
 Explore the exciting gameplay and features we've built—don’t miss out!
 
 
-time out sound: [![Game Video](https://youtu.be/_UVHVmApCws?si=SPg8gKjD4_HAk919)
+time out sound: [![Game Video](https://img.youtube.com/vi/_UVHVmApCws/0.jpg)](https://youtu.be/_UVHVmApCws?si=SPg8gKjD4_HAk919)
+
